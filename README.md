@@ -24,7 +24,7 @@ required to turn in your submission by making a pull request on the original
 repository.
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 9:00am.
+the next morning by 10:00am Eastern
 
 **Make a commit after each prompt.**
 
