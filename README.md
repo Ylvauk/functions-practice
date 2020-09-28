@@ -16,7 +16,7 @@ get.
 ## Instructions
 
 1. Fork and clone this repository.
-1. Change into the new directory.
+1. Change into the new directory and create a development branch.
 1. Fulfill the listed requirements.
 
 Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are
