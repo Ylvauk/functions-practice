@@ -23,6 +23,8 @@ Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are
 required to turn in your submission by making a pull request on the original
 repository.
 
+**Make a commit after each prompt.**
+
 Unless otherwise specified on the calendar or by an instructor, homework is due
 the next morning by 10:00am ET.
 
@@ -33,7 +35,6 @@ When you are finished with this assignment, take a look at the following resourc
 - [An Encounter with JS Objects](https://fireship.io/courses/javascript/beginner-js-objects/)
 - [JS Objects Tutorial](https://dev.to/jamesqquick/javascript-objects-tutorial-3kg4)
 
-**Make a commit after each prompt.**
 
 ## Requirements
 
