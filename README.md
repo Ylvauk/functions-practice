@@ -8,10 +8,10 @@ get.
 
 ## Prerequisites
 
-* Fundamental JavaScript: syntax, data types, and arrays
-* Conditions, including `if`, `if`/`else`, and `if`/`else if`/`else`
-* Loops, both `for` loops and `while` loops
-* Functions, both arrow functions and function declarations
+- Fundamental JavaScript: syntax, data types, and arrays
+- Conditions, including `if`, `if`/`else`, and `if`/`else if`/`else`
+- Loops, both `for` loops and `while` loops
+- Functions, both arrow functions and function declarations
 
 ## Instructions
 
@@ -28,13 +28,11 @@ repository.
 Unless otherwise specified on the calendar or by an instructor, homework is due
 the next morning by 10:00am ET.
 
-### Preview Tomorrow's Content 
+### Preview Tomorrow's Content
 
-When you are finished with this assignment, take a look at the following resources so that you're ready for tomorrow's lecture on JS Objects and Context. 
+When you are finished with this assignment, take a look at the following resources so that you're ready for tomorrow's lecture on JS Higher Order Functions & Array Methods.
 
-- [An Encounter with JS Objects](https://fireship.io/courses/javascript/beginner-js-objects/)
-- [JS Objects Tutorial](https://dev.to/jamesqquick/javascript-objects-tutorial-3kg4)
-
+- freeCodeCamp on [Higher Order Functions (HOFs)](https://www.freecodecamp.org/news/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b/)
 
 ## Requirements
 
@@ -43,13 +41,13 @@ Work through all of the prompts. Each prompt is in the form of a JavaScript
 comment. Write your code to solve the prompt after the comment.
 
 Some prompts will require you to practice researching methods we did not learn
-in class.
+in class. This is part of the gradual release of responsibility as you grow into self-reliant devs and Googling experts! 🧠
 
-**You are required to make a commit after each prompt.**
+**Remember to make a commit after each prompt and push your code up regularly.**
 
 ## Plagiarism
 
-Take a moment to refamiliarize yourself with the [Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md). Plagiarized work will not be accepted.
+Take a moment to review the [Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md). Plagiarized work will not be accepted.
 
 ## [License](LICENSE)
 
