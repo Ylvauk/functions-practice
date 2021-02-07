@@ -50,9 +50,10 @@ in class. This is part of the gradual release of responsibility as you grow into
 **If you're curious about whether your code passes the tests written for this assignment, you can do the following:**
 
 1. From inside this directory, run `npm install` in your terminal. This will download the testing dependencies (mocha and chai).
-1. Comment IN the module.exports at the bottom of the `challenge.js` file.
+1. Comment IN the module.exports at the bottom of the `challenge.js` file if you commented them out.
 1. Run `npm test` in this directory. Read the output to checkout which tests your code is passing and failing.
 1. If there are any errors, try fixing them and running the code again.
+1. Keep module.exports commented-in when you submit your homework!
 
 ## Plagiarism
 
