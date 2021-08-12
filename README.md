@@ -11,7 +11,7 @@ get.
 - Fundamental JavaScript: syntax, data types, and arrays
 - Conditions, including `if`, `if`/`else`, and `if`/`else if`/`else`
 - Loops, both `for` loops and `while` loops
-- Functions, both arrow functions and function declarations
+- Functions
 
 ## Instructions
 
@@ -30,23 +30,23 @@ the next morning by 10:00am ET.
 
 ### Preview Tomorrow's Content
 
-When you are finished with this assignment, take a look at the following resources so that you're ready for tomorrow's lecture on JS Higher Order Functions & Array Methods.
+When you are finished with this assignment, take a look at the following so that you're ready for tomorrow's lecture on JS Higher Order Functions & Array Methods.
 
 - freeCodeCamp on [Higher Order Functions (HOFs)](https://www.freecodecamp.org/news/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b/)
 
 ## Requirements
 
-To be considered complete: 
+To be considered complete:
 
 - The JavaScript file and `npm test` must run without errors
-- At least 12 out of 15 tests must pass
+- At least 10 out of 12 tests must pass
 
 There are a series of prompts inside [`lib/challenge.js`](lib/challenge.js).
 Work through all of the prompts. Each prompt is in the form of a JavaScript
 comment. Write your code to solve the prompt after the comment.
 
 Some prompts will require you to practice researching methods we did not learn
-in class. This is part of the gradual release of responsibility as you grow into self-reliant devs and Googling experts! 🧠
+in class. Be sure to cite any sources that you used to help you write your code. This is part of the gradual release of responsibility as you grow into self-reliant devs and Googling experts! 🧠
 
 **Remember to make a commit after each prompt and push your code up regularly.**
 

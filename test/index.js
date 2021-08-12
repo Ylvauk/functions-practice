@@ -13,10 +13,6 @@ const {
   addToSum,
   getArraySum,
   arrayifyString,
-  testFunc,
-  add,
-  myFunction,
-  myHigherOrderFunction,
 } = require("../lib/challenge");
 
 describe("Prompt 1", () => {
@@ -149,28 +145,5 @@ describe("Prompt 12", () => {
         "they",
         "are",
       ]);
-  });
-});
-
-describe("Prompt 13", () => {
-  it('should return a string that equals "this works!"', () => {
-    expect(testFunc()()).to.be.a("string").that.equals("this works!");
-  });
-});
-
-describe("Prompt 14", () => {
-  it("should return the sum of two numbers", () => {
-    const sum1 = myFunction(add, 2, 4);
-    expect(sum1).to.be.a("number").that.equals(6);
-    const sum2 = myFunction(add, 1, 9);
-    expect(sum2).to.be.a("number").that.equals(10);
-  });
-});
-
-describe("Prompt 15", () => {
-  it('should return a string that says "hello world"', () => {
-    expect(myHigherOrderFunction())
-      .to.be.a("string")
-      .that.equals("hello world");
   });
 });
