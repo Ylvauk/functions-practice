@@ -36,6 +36,11 @@ When you are finished with this assignment, take a look at the following resourc
 
 ## Requirements
 
+To be considered complete: 
+
+- The JavaScript file and `npm test` must run without errors
+- At least 12 out of 15 tests must pass
+
 There are a series of prompts inside [`lib/challenge.js`](lib/challenge.js).
 Work through all of the prompts. Each prompt is in the form of a JavaScript
 comment. Write your code to solve the prompt after the comment.
@@ -45,9 +50,7 @@ in class. This is part of the gradual release of responsibility as you grow into
 
 **Remember to make a commit after each prompt and push your code up regularly.**
 
-### Optional:
-
-**If you're curious about whether your code passes the tests written for this assignment, you can do the following:**
+### Tests
 
 1. From inside this directory, run `npm install` in your terminal. This will download the testing dependencies (mocha and chai).
 1. Comment IN the module.exports at the bottom of the `challenge.js` file if you commented them out.
