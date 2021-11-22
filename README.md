@@ -26,7 +26,7 @@ repository.
 **Make a commit after each prompt.**
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 10:00am ET.
+the next morning by 9:00am ET.
 
 ### Preview Tomorrow's Content
 
@@ -53,10 +53,8 @@ in class. Be sure to cite any sources that you used to help you write your code.
 ### Tests
 
 1. From inside this directory, run `npm install` in your terminal. This will download the testing dependencies (mocha and chai).
-1. Comment IN the module.exports at the bottom of the `challenge.js` file if you commented them out.
 1. Run `npm test` in this directory. Read the output to checkout which tests your code is passing and failing.
 1. If there are any errors, try fixing them and running the code again.
-1. Keep module.exports commented-in when you submit your homework!
 
 ## Plagiarism
 
